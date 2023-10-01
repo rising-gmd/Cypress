@@ -1,0 +1,10 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore npm and yarn lock files
+package-lock.json
+yarn.lock
+
+# Ignore user-specific files and directories
+.DS_Store
+.env
